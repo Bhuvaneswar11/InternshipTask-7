@@ -1,0 +1,31 @@
+/* src/pages/ServiceDetail.css */
+
+.service-details-container {
+    display: flex;
+    gap: 40px;
+    padding: 40px;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .service-image {
+    max-width: 400px;
+    border-radius: 8px;
+  }
+  
+  .service-details-content {
+    max-width: 600px;
+  }
+  
+  .service-title {
+    font-size: 2rem;
+    color: #333;
+    margin-bottom: 20px;
+  }
+  
+  .service-description {
+    font-size: 1rem;
+    color: #555;
+    line-height: 1.6;
+  }
+  
